@@ -1,0 +1,2 @@
+This time, my professor asked us again to parallel the K-Means algorithm, but using the MPI library this time . Instead of
+parallel the centroids, this time me and my partner decide to parallel the distance of numbers calculation.
