@@ -1,0 +1,2 @@
+This was my first job to the course INE 5410. My professor asked to parallel the K-Means algorithm. Me and my partner, Otto Pires,
+made the K-Means parallel version with the POSIX Threads. The main idea is to parallel the "for" sections.
